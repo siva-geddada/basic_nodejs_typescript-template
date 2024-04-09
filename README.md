@@ -1,4 +1,5 @@
-# Node.js TypeScript Project
+# Node.js TypeScript Project 
+![png-transparent-node-js-javascript-computer-icons-github-angle-text-logo](https://github.com/siva-geddada/basic_nodejs_typescript-template/assets/24616854/db9a06a9-9efb-4fb7-b4de-631770e77eeb)
 
 This is a sample project demonstrating how to build a Node.js application using TypeScript. It includes configuration files and sample code to help you get started quickly.
 
